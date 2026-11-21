@@ -2,7 +2,7 @@ body{
     background-color: black;
 }
 h1{
-    font-size: 60px;
+    font-size: 35px;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color: antiquewhite;
@@ -41,4 +41,6 @@ img{
         display: flex;
         flex-direction: column;
     }
+    h1{35px
+      }
 }
