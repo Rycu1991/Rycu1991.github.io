@@ -34,5 +34,6 @@ a{
     text-decoration: solid;
 }
 @media(max-width: 768px){
-    
+    h1{
+        font-size:35px;}
 }
