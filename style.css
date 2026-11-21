@@ -41,6 +41,6 @@ img{
         display: flex;
         flex-direction: column;
     }
-    h1{35px
+    h1{font-size:35px
       }
 }
