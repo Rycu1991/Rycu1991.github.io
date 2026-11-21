@@ -2,14 +2,13 @@ function photoClicked(){
     console.log("Photo was clicked");
 alert("This is my phone number: Daniel Dmitrzak 07958647324");
 }
-// ===== 🖼️ PUT YOUR IMAGE FILES HERE =====
 const images = [
-"C:\Users\Maurycy\Desktop\Portfolio\WhatsApp Image 2026-11-21 at 08.16.31 (5).jpeg",
-"C:\Users\Maurycy\Desktop\Portfolio\WhatsApp Image 2026-11-21 at 08.16.31.jpeg",
-"C:\Users\Maurycy\Desktop\Portfolio\WhatsApp Image 2026-11-21 at 08.16.31 (1).jpeg",
-"C:\Users\Maurycy\Desktop\Portfolio\WhatsApp Image 2026-11-21 at 08.16.31 (4).jpeg",
-"C:\Users\Maurycy\Desktop\Portfolio\WhatsApp Image 2026-11-21 at 08.16.31 (2).jpeg",
-"C:\Users\Maurycy\Desktop\Portfolio\WhatsApp Image 2026-11-21 at 08.16.31 (3).jpeg"
+"WhatsApp Image 2026-11-21 at 08.16.31 (5).jpeg",
+"WhatsApp Image 2026-11-21 at 08.16.31.jpeg",
+"WhatsApp Image 2026-11-21 at 08.16.31 (1).jpeg",
+"WhatsApp Image 2026-11-21 at 08.16.31 (4).jpeg",
+"WhatsApp Image 2026-11-21 at 08.16.31 (2).jpeg",
+"WhatsApp Image 2026-11-21 at 08.16.31 (3).jpeg"
 ];
 let current = 0;
 const box = document.getElementById("stack");
